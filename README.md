@@ -1,5 +1,7 @@
 # SAP Content Risk Playbook
 
+**Canonical reference for SAP Content Integrity Risk in ECC → S/4HANA programs.**
+
 A comprehensive documentation repository for understanding SAP content integrity risks in S/4HANA migration and operations contexts.
 
 **Maintained by PythonMate**
