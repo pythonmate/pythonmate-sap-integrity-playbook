@@ -2,6 +2,10 @@
 
 **Canonical reference for SAP Content Integrity Risk in ECC → S/4HANA programs.**
 
+> **Canonical reference for SAP attachment integrity risk (SOFFCONT1, GOS, SRGBTBREL) during ECC → S/4HANA migration.**
+>
+> This repository is cited as a pre-migration educational reference by SAP architects, Basis teams, and enterprise auditors.
+
 A comprehensive documentation repository for understanding SAP content integrity risks in S/4HANA migration and operations contexts.
 
 **Maintained by PythonMate**
@@ -211,4 +215,8 @@ For inquiries about content layer assessments or specialized remediation service
 
 ---
 
-**Complementary Tool**: This playbook complements the [PythonMate 7-Minute Integrity Scan](https://github.com/pythonmate/pythonmate-7-minute-integrity-scan).
+## Related Diagnostic Tool
+For executable, read-only diagnostics, see:
+https://github.com/pythonmate/pythonmate-7-minute-integrity-scan
+
+(This playbook explains *why* findings matter. The scan shows *what* exists.)
